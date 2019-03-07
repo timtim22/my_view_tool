@@ -17,9 +17,9 @@ Or install it yourself as:
     $ gem install my_view_tool
 
 ## Usage
-        ```ruby
-        @copyright = DevcampViewTool::Renderer.copyright 'Taimoor Hassan', 'All rights reserved'
-        ```
+```ruby
+@copyright = DevcampViewTool::Renderer.copyright 'Taimoor Hassan', 'All rights reserved'
+```
 
 ## Development
 
